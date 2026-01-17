@@ -2,7 +2,7 @@
 import random
 import time
 
-
+#0 diem
 class Post:
     def __init__(self,noi_dung,tac_gia):
         self.noi_dung=noi_dung
